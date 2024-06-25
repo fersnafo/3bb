@@ -1,0 +1,1 @@
+const caixaPrincpial =document.querySelector(".caixa");
